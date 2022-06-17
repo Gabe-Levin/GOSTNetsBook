@@ -2,8 +2,8 @@
 Sample page for GOSTnets Jupyterbook Development
 
 ## Packages
-*jupyter-book
-*ghp-import
+* jupyter-book
+* ghp-import
 
 ## Commands
 ### Jupyter-book
