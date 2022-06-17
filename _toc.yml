@@ -5,11 +5,11 @@ format: jb-book
 root: intro
 parts:
   - caption: About
-  chapters:
-  - file: intro
+    chapters:
+    - file: intro
 
   - caption: GOSTnets Projects
-  chapter:
-  - file: markdown
-  - file: notebooks
-  - file: markdown-notebooks
+    chapter:
+    - file: markdown
+    - file: notebooks
+    - file: markdown-notebooks
