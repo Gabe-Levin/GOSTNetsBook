@@ -1,55 +1,12 @@
-# Markdown Files
+# GOST
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+### Who we Are
+The Geospatial Operational Support Team (GOST) works with geospatial data – that is, data matched to measures of location, from countries and municipalities to specific coordinates – throughout the World Bank. The essence of this work lies in the combination of useful data with a location element. The world of geospatial goes beyond positioning existing types of data, and advances in technology (satellites, drones, cell phones) are causing new data types to emerge. Questions which couldn’t be answered ten years ago can be answered today using this technology.
 
-## What is MyST?
+### What We Do
+A variety of services are being offered to stakeholders, including advice on how geospatial data can help solve specific problems, purchasing support for data and imagery, and direct technical assistance for internal stakeholders, to help make the World Bank Group a sophisticated consumer of geospatial analytics, and ultimately carry out its development operations in the most cost-efficient and effective manner.
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+### How We Work
+In addition to direct support and assistance to task teams that need help, from short-term assistance to long-term engagements that create geospatial global public goods, GOST is creating a set of services and resources to help make geospatial data useful and accessible across the World Bank. GOST is also working to help World Bank projects use geospatial data for Monitoring & Evaluation indicators.
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
-
-## Sample Roles and Directives
-
-Roles and directives are two of the most powerful tools in Jupyter Book. They
-are kind of like functions, but written in a markup language. They both
-serve a similar purpose, but **roles are written in one line**, whereas
-**directives span many lines**. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.
-
-Here is a "note" directive:
-
-```{note}
-Here is a note
-```
-
-It will be rendered in a special box when you build your book.
-
-Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
-
-
-## Citations
-
-You can also cite references that are stored in a `bibtex` file. For example,
-the following syntax: `` {cite}`holdgraf_evidence_2014` `` will render like
-this: {cite}`holdgraf_evidence_2014`.
-
-Moreover, you can insert a bibliography into your page with this syntax:
-The `{bibliography}` directive must be used for all the `{cite}` roles to
-render properly.
-For example, if the references for your book are stored in `references.bib`,
-then the bibliography is inserted with:
-
-```{bibliography}
-```
-
-## Learn more
-
-This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
+[Click Here](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) to get in touch
