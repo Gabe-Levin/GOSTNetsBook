@@ -3,7 +3,14 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: About
+    chapters:
+    - file: intro
+    - file: intro
+
+  - caption: GOSTnets Projects
+    chapter:
+    - file: markdown
+    - file: notebooks
+    - file: markdown-notebooks
