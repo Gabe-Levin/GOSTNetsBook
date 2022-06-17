@@ -7,8 +7,8 @@ defaults:
 parts:
 - caption: About
   chapters:
-  - file: intro
-  - file: intro
+  - file: markdown
+  - file: notebooks
 
 - caption: GOSTnets Projects
   chapters:
