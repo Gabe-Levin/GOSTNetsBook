@@ -1,14 +1,15 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-root: intro
+
 format: jb-book
+root: intro
 defaults:
   numbered: true
 parts:
 - caption: About
   chapters:
-  - file: markdown
-  - file: notebooks
+  - file: gost
+  - file: gostnets
 
 - caption: GOSTnets Projects
   chapters:
