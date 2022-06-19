@@ -14,4 +14,7 @@ parts:
   - file: FY22/FY22_HomePage
     sections:
     - file: FY22/KenyaAnalysis
+  - file: FY21/FY21_HomePage
+    sections:
+    - file: FY21/KenyaAnalysis
   - file: markdown-notebooks
