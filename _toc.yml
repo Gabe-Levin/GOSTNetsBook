@@ -12,5 +12,5 @@ parts:
 - caption: GOSTnets Projects
   chapters:
   - file: markdown
-  - file: notebooks
+  - file: FY22/KenyaAnalysis
   - file: markdown-notebooks
