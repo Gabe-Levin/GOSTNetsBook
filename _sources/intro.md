@@ -7,7 +7,7 @@ Feel free to reach out to the GOST team for further inquiries.
 
 Check out the content pages bundled with this sample book to see more.
 
-```{contents}
+```{tableofcontents}
 :local:
 :depth: 1
 ```
